@@ -14,8 +14,6 @@ Learning how to push changes to two different repos.
 
 1. `git remote -v`
 
-2. `git remote add origin-codeberg git@codeberg.org:do-kevin/github-forgejo-test.git`
+2. `git remote add origin-codeberg ssh://git@codeberg.org:do-kevin/github-forgejo-test.git`
 
 3. `git push origin-codeberg main`
-
-TO-DO: Need to update when doing a fresh repo.
